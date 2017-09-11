@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TaggableApp</string>
+    <string name="submit"><u>Submit</u></string>
+    <string name="activity_sign_in">SignIn</string>
+    <string name="activity_posts">Posts</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

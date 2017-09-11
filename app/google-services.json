@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "631542061679",
+    "firebase_url": "https://tangableapp.firebaseio.com",
+    "project_id": "tangableapp",
+    "storage_bucket": "tangableapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631542061679:android:ad1481339200875e",
+        "android_client_info": {
+          "package_name": "rahulkumardas.taggableapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631542061679-pc8m90cs87q7uku8locjn39dj04s1de1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rahulkumardas.taggableapp",
+            "certificate_hash": "42c75e194e140b14a4d50fe199255040afadd311"
+          }
+        },
+        {
+          "client_id": "631542061679-9091a7hsbquq72fokdi03lalf80p6nm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAolHnvQBbd5Vf8g8cpyZBBtYHXFqARjBY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631542061679-9091a7hsbquq72fokdi03lalf80p6nm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
